@@ -117,7 +117,7 @@
                   </svg>
                 </a>
               </div>
-              <div class="col-3 px-1">
+              <!-- <div class="col-3 px-1">
                 <a class="btn btn-outline-light w-100" href="javascript:;">
                   <svg width="24px" height="32px" viewBox="0 0 64 64" version="1.1">
                     <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -127,8 +127,8 @@
                     </g>
                   </svg>
                 </a>
-              </div>
-              <div class="col-3 me-auto px-1">
+              </div> -->
+              <!-- <div class="col-3 me-auto px-1">
                 <a class="btn btn-outline-light w-100" href="javascript:;">
                   <svg width="24px" height="32px" viewBox="0 0 64 64" version="1.1">
                     <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -141,7 +141,7 @@
                     </g>
                   </svg>
                 </a>
-              </div>
+              </div> -->
               <div class="mt-2 position-relative text-center">
                 <p class="text-sm font-weight-bold mb-2 text-secondary text-border d-inline z-index-2 bg-white px-3">
                   or
